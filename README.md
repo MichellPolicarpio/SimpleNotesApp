@@ -158,12 +158,6 @@ app/
 
 ---
 
-## 📸 Screenshots
-
-*Los screenshots se pueden agregar aquí mostrando la interfaz en diferentes orientaciones*
-
----
-
 ## 🤝 Contribuciones
 
 Este es un proyecto académico desarrollado para la materia de Tecnologías y Aplicaciones Móviles. Las contribuciones están limitadas a los autores del proyecto.
